@@ -3,4 +3,4 @@
 I created it to learn to create Python APIs.<br>
 I learned how to create it with Flask Documentation.<br>
 One of my next plans is to learn how to create an API in Flask perfectly.<br>
-It deployed on <a href="http://qurbonsaid.pythonanywere.com">here</a>.
+It deployed on <a href="http://qurbonsaid.pythonanywhere.com">here</a>.
